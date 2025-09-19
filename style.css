@@ -197,6 +197,11 @@ body { background: var(--bg-color); color: var(--text-color); line-height: 1.6; 
     width: 80px;
   }
 }
+.navbar {
+  display: flex;
+  gap: 20px;
+}
+
 #menu-icon {
   font-size: 2rem;
   color: #ff6ec7;
